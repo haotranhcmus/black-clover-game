@@ -9,3 +9,15 @@
   - Người chơi và quái vật có các animation riêng cho từng trạng thái chuyển động (chạy, nhảy, rơi,...).
   - Có nhạc và hiệu ứng âm thanh cho các hành động của người chơi và quái vật.
   - Game sẽ tính điểm dựa trên quãng đường người chơi đi được.
+<img width="1291" height="716" alt="image" src="https://github.com/user-attachments/assets/1d260833-7fcb-40d2-bfc1-4d484c872725" />
+
+<img width="1291" height="716" alt="image" src="https://github.com/user-attachments/assets/93032165-984a-4a36-bfdc-64149309d47a" />
+
+<img width="1291" height="716" alt="image" src="https://github.com/user-attachments/assets/fbb2ca5e-1b09-4272-8c7c-5a813ad8015b" />
+
+<img width="1291" height="716" alt="image" src="https://github.com/user-attachments/assets/c278fe50-5d85-41ab-a7a0-1ca3820bee78" />
+
+
+
+
+
